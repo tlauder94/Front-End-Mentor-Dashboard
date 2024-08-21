@@ -1,0 +1,23 @@
+Functional Reqiurements/Notes
+
+ - Light/Dark mode toggle:
+	- What HTML markup -0 scottaohara.github.io ally_sytled_form_controls/src/radio-button--switch/
+	- How to switch between light/dark mode (accessible) via js
+	- Three option toggle: light/dark/system pref - codepen.io toggle three
+	- Takes system prferance by default but can override with toggle 
+	- Use fieldset, legend, radio input
+
+
+ - CSS variables (custom properties)#
+	- css-tricks.com updating css variable with js
+
+ - Prefers-color-scheme media query
+	- developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+	
+
+
+ - Accessibility:
+	-Use correct heading tags
+	- Screenreader-only text for card titles/username
+		Accessibility-developer.com  - hiding elements visually
+
